@@ -1,5 +1,5 @@
-# Proxmox-migration
-# Kelompok 8
+# Proxmox-migration Project 8
+# Kelompok 7
 ## Anggota
 1. Mohd Ikhsan Sadillah (2401020133)
 2. Rahmat Halawa (2401020130)
